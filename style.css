@@ -1,0 +1,222 @@
+body{
+    background-color: black;
+}
+
+
+.logo{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+}
+
+.logo:hover{
+    transform: translateY(-5px) scale(1.1);
+}
+
+.navbar-nav a{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.navbar-nav a:hover{
+    transform: translateY(-5px);
+    color:magenta;
+}
+
+
+.navbar i {
+    color: white;
+    border: 2px solid;
+}
+
+.navbar i:hover{
+    transform: translateY(-5px);
+}
+
+.explor{
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+}
+
+.explor span{
+    background: rgb(248, 108, 248);
+    background: linear-gradient(90deg, rgba(248, 108, 248, 1)0%, rgba(0, 180, 236, 1)100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}   
+
+.women1:hover{
+    transform: scale(1.10);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.women2:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.pr1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bt1, .bt3, .bt4, .bt6, .bt8, .bt10, .bt12, .bt14{
+    background: linear-gradient(90deg, rgba(248, 108, 248, 1)0%, rgba(0, 180, 236, 1)100%);
+    padding: 0.5rem 1rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bt1:hover{
+    transform: translateY(-5px);
+}
+
+.bt2, .bt5, .bt7, .bt9, .bt11, .bt13, .bt15{
+    padding: 0.5rem 1rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    background-color: inherit;
+    border-image: linear-gradient(90deg, rgba(209, 14, 209, 1)0%, rgba(16, 163, 218, 1)100%)1;
+
+}
+
+.bt2:hover{
+    transform: translateY(-5px);
+}
+
+.artist p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.5rem;
+}
+
+.artist span{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+.parr2 h2{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+}
+
+.parr2 span{
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+.parr2 p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bt3:hover{
+    transform: translateY(-5px);
+}
+
+.frame:hover{
+    transform: scale(1.10);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.cont3 h2{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.cont3 span{
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgb(207, 146, 243) 0%, rgb(90, 159, 238) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}
+
+.cont3 p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.t1, .t2, .t3, .t4, .t5, .t6{
+    background-color: rgba(9, 8, 35, 1);
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 10%;
+    
+}
+    
+.cont3 h5{
+    font-family: 'Orbitron', sans-serif;
+    padding: 0.5rem 0;
+}
+
+.t1, .t2, .t3, .t4, .t5, .t6 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.95rem;
+}
+
+.cont3 button:hover{
+    transform: translateY(-5px);
+}
+
+
+.cont4 h2{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.cont4 span{
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgb(215, 179, 235) 0%, rgb(58, 150, 229) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.cont4 p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer{
+    background-color: rgba(9, 8, 35, 1);
+    
+}
+
+.footer h2{
+    font-family: 'Orbitron', sans-serif;
+    background: rgb(248, 108, 248);
+    background: linear-gradient(90deg, rgba(248, 108, 248, 1)0%, rgb(57, 110, 226,1)100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
+
+
+.footer h6{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+}
+
+
+.footer p, li {
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer li:hover{
+    transform: translateY(-2px);
+    color: magenta;
+    cursor: pointer;
+}
+
+.footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer img:hover{
+    transform: translateY(-2px);
+}
+
+
+
